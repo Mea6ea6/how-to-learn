@@ -1,12 +1,3 @@
-# Проектная работа
+# How To Learn
 
-__Название:__ «Научиться учиться»  
-
-__Функционал сайта:__  
-
-- сверстанная интерактивная страничка;
-- проект размещен на GitHub Pages.
-
-------
-
-__Инструменты и стек:__ #HTML #CSS #Git #Flex-box #Bem-methodology
+__Tools and stack:__ #HTML #CSS #Git #Flex-box #Bem-methodology
